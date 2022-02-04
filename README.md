@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ywu-ias
 - 🌱 I’m currently learning everything I can
-- 📫 Reach me at ywu<at>integralads.com
+- 📫 Reach me at ywu\<at\>integralads.com
 
 <!---
 ywu-ias/ywu-ias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
