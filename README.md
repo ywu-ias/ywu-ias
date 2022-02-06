@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ywu-ias
+- 👋 Hi, I’m @ywu-ias, Associate Software Engineer at Publica
 - 🌱 I’m currently learning everything I can
 - 📫 Reach me at ywu\<at\>integralads.com
 
